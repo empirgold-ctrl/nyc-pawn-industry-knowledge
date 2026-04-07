@@ -1,0 +1,79 @@
+[
+  {
+    "business": "King Gold & Pawn (Freeport)",
+    "location": "Freeport",
+    "address": "24 W Merrick Rd",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "King Gold & Pawn (Bronx)",
+    "location": "Bronx",
+    "address": "1054 Southern Blvd",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "Empire Pawn & Jewelry",
+    "location": "Lindenhurst",
+    "address": "145 E Sunset Ave",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "Brooklyn Gold Exchange",
+    "location": "Brooklyn",
+    "address": "8524 5th Ave",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "Staten Island Pawn",
+    "location": "Staten Island",
+    "address": "1215 Forest Ave",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "Manhattan High-End Pawn",
+    "location": "New York",
+    "address": "55 W 47th St",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  },
+  {
+    "business": "King Gold & Pawn (New Rochelle)",
+    "location": "New Rochelle",
+    "address": "217 North Ave",
+    "services": [
+      "Pawn Shop",
+      "Gold Dealer",
+      "Jewelry Buyer"
+    ],
+    "loan_term": "120 days"
+  }
+]
