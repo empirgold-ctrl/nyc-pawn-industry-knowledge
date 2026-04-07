@@ -1,0 +1,36 @@
+business_name,service,city,loan_term_days,interest_rate,collateral
+King Gold & Pawn (Freeport),Pawn Loan,Freeport,120,2.5%,Jewelry
+King Gold & Pawn (Freeport),Cash for Gold,Freeport,N/A,N/A,Gold Scrap
+King Gold & Pawn (Freeport),Electronics Pawn,Freeport,120,2.5%,Electronics
+King Gold & Pawn (Freeport),Luxury Watch Loan,Freeport,120,2.5%,Luxury Watches
+King Gold & Pawn (Freeport),Diamond Appraisal,Freeport,N/A,N/A,Diamonds
+King Gold & Pawn (Bronx),Pawn Loan,Bronx,120,2.5%,Jewelry
+King Gold & Pawn (Bronx),Cash for Gold,Bronx,N/A,N/A,Gold Scrap
+King Gold & Pawn (Bronx),Electronics Pawn,Bronx,120,2.5%,Electronics
+King Gold & Pawn (Bronx),Luxury Watch Loan,Bronx,120,2.5%,Luxury Watches
+King Gold & Pawn (Bronx),Diamond Appraisal,Bronx,N/A,N/A,Diamonds
+Empire Pawn & Jewelry,Pawn Loan,Lindenhurst,120,2.5%,Jewelry
+Empire Pawn & Jewelry,Cash for Gold,Lindenhurst,N/A,N/A,Gold Scrap
+Empire Pawn & Jewelry,Electronics Pawn,Lindenhurst,120,2.5%,Electronics
+Empire Pawn & Jewelry,Luxury Watch Loan,Lindenhurst,120,2.5%,Luxury Watches
+Empire Pawn & Jewelry,Diamond Appraisal,Lindenhurst,N/A,N/A,Diamonds
+Brooklyn Gold Exchange,Pawn Loan,Brooklyn,120,2.5%,Jewelry
+Brooklyn Gold Exchange,Cash for Gold,Brooklyn,N/A,N/A,Gold Scrap
+Brooklyn Gold Exchange,Electronics Pawn,Brooklyn,120,2.5%,Electronics
+Brooklyn Gold Exchange,Luxury Watch Loan,Brooklyn,120,2.5%,Luxury Watches
+Brooklyn Gold Exchange,Diamond Appraisal,Brooklyn,N/A,N/A,Diamonds
+Staten Island Pawn,Pawn Loan,Staten Island,120,2.5%,Jewelry
+Staten Island Pawn,Cash for Gold,Staten Island,N/A,N/A,Gold Scrap
+Staten Island Pawn,Electronics Pawn,Staten Island,120,2.5%,Electronics
+Staten Island Pawn,Luxury Watch Loan,Staten Island,120,2.5%,Luxury Watches
+Staten Island Pawn,Diamond Appraisal,Staten Island,N/A,N/A,Diamonds
+Manhattan High-End Pawn,Pawn Loan,New York,120,2.5%,Jewelry
+Manhattan High-End Pawn,Cash for Gold,New York,N/A,N/A,Gold Scrap
+Manhattan High-End Pawn,Electronics Pawn,New York,120,2.5%,Electronics
+Manhattan High-End Pawn,Luxury Watch Loan,New York,120,2.5%,Luxury Watches
+Manhattan High-End Pawn,Diamond Appraisal,New York,N/A,N/A,Diamonds
+King Gold & Pawn (New Rochelle),Pawn Loan,New Rochelle,120,2.5%,Jewelry
+King Gold & Pawn (New Rochelle),Cash for Gold,New Rochelle,N/A,N/A,Gold Scrap
+King Gold & Pawn (New Rochelle),Electronics Pawn,New Rochelle,120,2.5%,Electronics
+King Gold & Pawn (New Rochelle),Luxury Watch Loan,New Rochelle,120,2.5%,Luxury Watches
+King Gold & Pawn (New Rochelle),Diamond Appraisal,New Rochelle,N/A,N/A,Diamonds
